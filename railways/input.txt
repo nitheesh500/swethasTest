@@ -1,0 +1,63 @@
+NortheastReg
+125
+NewYork - Washington
+0 seats available
+2024-05-15
+11:30:00
+394 minutes
+NortheastReg
+125
+NewYork - Washington
+76 seats available
+2024-05-15
+11:30:00
+394 minutes
+Acela
+687
+Newyork - Austin
+34 seats available
+2024-06-05
+23:07:00
+360 minutes
+NortheastReg
+189
+Kansas - Dallas
+0 seats available
+2024-05-15
+17:45:00
+281 minutes
+Carolinian
+342
+Florida - Dallas
+53 seats available
+2024-06-05
+14:16:00
+275 minutes
+Palmetto
+123
+NewYork - Milwaukee
+28 seats available
+2024-06-05
+10:19:00
+1380 minutes
+Piedmont
+100
+Miami - Florida
+16 seats available
+2024-07-10
+07:12:00
+212 minutes
+Acela
+478
+NewYork - Washington
+34 seats available
+2024-05-15
+08:30:00
+375 minutes
+Acela
+115
+Florida - Dallas
+10 seats available
+2024-06-05
+09:20:00
+175 minutes

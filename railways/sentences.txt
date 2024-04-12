@@ -1,0 +1,44 @@
+@@@
+NY-DC
+Pennsylvania Station
+Newark Penn Station
+Trenton Transit Center
+30th Street Station
+Wilmington Station
+Baltimore Penn Station
+Union Station
+@@@
+KC-DAL
+Kansas City Union Station
+Sedalia station
+Blytheville
+Leachville
+Depot-Leachville
+Greenville station 
+Dallas Union Station 
+@@@
+NY-AS
+New York Penn Station 
+Newark Penn Station
+Washington Union Station
+Richmond Staples Mill Road Station
+Raleigh Union Station
+Fort Pierce Amtrak Station
+Mobile Amtrak Station
+New Orleans Union Passenger Terminal
+Austin Amtrak Station
+@@@
+MI-FA
+Miami Amtrak Station
+Vero Beach Amtrak Station
+Melbourne Amtrak Station
+Orlando Amtrak Station
+Jacksonville Amtrak Station
+@@@
+FA-DAL
+Miami Amtrak Station
+Fort Lauderdale Amtrak Station
+West Palm Beach Amtrak Station
+Orlando Amtrak Station
+New Orleans Union Passenger Terminal
+Dallas Union Station
